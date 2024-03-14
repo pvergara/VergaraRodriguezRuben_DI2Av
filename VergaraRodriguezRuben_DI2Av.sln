@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wordle", "Wordle\Wordle.csproj", "{FD456B49-62C4-42BC-9FC6-C45404526B1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VergaraRodriguezRuben_DI2Av", "VergaraRodriguezRuben_DI2Av\VergaraRodriguezRuben_DI2Av.csproj", "{1E92F73F-5153-488C-88A0-D4F812DB6F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD456B49-62C4-42BC-9FC6-C45404526B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD456B49-62C4-42BC-9FC6-C45404526B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD456B49-62C4-42BC-9FC6-C45404526B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD456B49-62C4-42BC-9FC6-C45404526B1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E92F73F-5153-488C-88A0-D4F812DB6F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E92F73F-5153-488C-88A0-D4F812DB6F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E92F73F-5153-488C-88A0-D4F812DB6F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E92F73F-5153-488C-88A0-D4F812DB6F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86024929-BEA9-40FC-8DEB-7E73DD3DE45C}
+	EndGlobalSection
+EndGlobal
